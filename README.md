@@ -1,6 +1,8 @@
 # Bluestaq-Elevator-Problem
 
-In case Github has trouble running this code, this code was developed in the Eclipse IDE and here is the example output: ![image](https://github.com/user-attachments/assets/dbb0bed6-0bfd-4d57-b5de-43471833a33a)
+In case Github has trouble running this code, this code was developed in the Eclipse IDE and here is the example output: 
+
+![image](https://github.com/user-attachments/assets/dbb0bed6-0bfd-4d57-b5de-43471833a33a)
 
 Here is the code as well: 
 Direction.java:
