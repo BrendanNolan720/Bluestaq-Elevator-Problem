@@ -5,6 +5,7 @@ In case Github has trouble running this code, this code was developed in the Ecl
 ![image](https://github.com/user-attachments/assets/dbb0bed6-0bfd-4d57-b5de-43471833a33a)
 
 Here is the code as well: 
+
 Direction.java:
 
 ![image](https://github.com/user-attachments/assets/c998f99d-a6e6-4a3a-a253-b3c4d9cace49)
